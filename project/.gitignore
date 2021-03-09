@@ -1,0 +1,4 @@
+node_modules/
+production/
+manifest.json
+package-lock.json
